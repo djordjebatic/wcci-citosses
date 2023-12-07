@@ -5,7 +5,10 @@ layout: page
 
 {% include figure.html img="large_yokahoma_japan_2248134426.jpg" alt="WCCI banner" caption="" width="50%" %}
 
-<h1 style="text-align: center;"> Special Session: Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems</h1> <br> <h1 style="text-align: center; font-size:80%;"><a href="https://2024.ieeewcci.org/">The IEEE World Congress on Computational Intelligence (WCCI) 2024</a></h1> <br> <h2 style="text-align: center; font-size:60%;"> 30th June - 5th July 2024, Yokohama, Japan</h2> <br> <h2 style="text-align: center; font-size:60%;"> Supported by [IEEE CIS Task Force on Computational Intelligence in the Energy Domain](http://www.gecad.isep.ipp.pt/ci4energy/)</h2>
+<h1 style="text-align: center;"> Special Session: Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems</h1>
+<h2 style="text-align: center;"><a href="https://2024.ieeewcci.org/">The IEEE World Congress on Computational Intelligence (WCCI) 2024</a></h2>
+<h4 style="text-align: center;"> 30th June - 5th July 2024, Yokohama, Japan</h4>
+<h4 style="text-align: center;"> Supported by [IEEE CIS Task Force on Computational Intelligence in the Energy Domain](http://www.gecad.isep.ipp.pt/ci4energy/)</h4>
 
 ---
 
