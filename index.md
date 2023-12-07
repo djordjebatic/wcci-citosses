@@ -8,7 +8,7 @@ layout: page
 <h1 style="text-align: center;"> Special Session: Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems</h1>
 <h2 style="text-align: center;"><a href="https://2024.ieeewcci.org/">The IEEE World Congress on Computational Intelligence (WCCI) 2024</a></h2>
 <h4 style="text-align: center;"> 30th June - 5th July 2024, Yokohama, Japan</h4>
-<h4 style="text-align: center;"> Supported by [IEEE CIS Task Force on Computational Intelligence in the Energy Domain](http://www.gecad.isep.ipp.pt/ci4energy/)</h4>
+<h4 style="text-align: center;"> Supported by <a href="http://www.gecad.isep.ipp.pt/ci4energy/">IEEE CIS Task Force on Computational Intelligence in the Energy Domain</a></h4>
 
 ---
 
