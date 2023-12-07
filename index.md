@@ -24,6 +24,7 @@ With the escalating complexity of the grid, there is a growing need for advanced
 computational methods to oversee grid ecosystems, considering both utility and end-user 
 perspectives. This necessitates more observable, accessible, and controllable network 
 infrastructures.
+
 This special session offers an opportunity for researchers from various research fields, such 
 as machine learning, artificial neural networks, fuzzy logic, evolutionary algorithms, power 
 and energy systems, communications, optimization, and control engineering, to share their 
@@ -35,7 +36,8 @@ generation patterns. Computational intelligence techniques, such as artificial n
 networks, fuzzy logic, and evolutionary algorithms, can improve the performance and 
 accuracy of electrical signal processing methods, by providing adaptive, robust, and scalable 
 solutions to the challenges posed by the smart grid.
-This special session aims to bridge the gap between computational intelligence techniques 
+
+The main aim of this special session is to bridge the gap between computational intelligence techniques 
 and the pressing issues related to electrical power and energy systems. The session is 
 supported by the IEEE CIS Task Force on Computational Intelligence in the Energy Domain (CI4Energy).
 
@@ -71,8 +73,8 @@ Please follow the submission guideline from the [IEEE WCCI 2024 Submission Websi
 
 ## Organizers
 
-- Giulia Tanoni
-- Djordje Batic
-- Stavros Sykiotis
-- Emanuelle Principi
-- Lina Stankovic
+<h4> Giulia Tanoni, Università Politecnica delle Marche, Ancona, Italy (g.tanoni@pm.univpm.it) </h4>
+<h4> Djordje Batic, University of Strathclyde, Glasgow, UK (djordje.batic@strath.ac.uk) </h4>
+<h4> Stavros Sykiotis, National Technical University of Athens, Athens, Greece (stasykiotis@mail.ntua.gr) </h4>
+<h4> Emanuelle Principi, Università Politecnica delle Marche, Ancona, Italy (e.principi@staff.univpm.it) </h4>
+<h4> Lina Stankovic, University of Strathclyde, Glasgow, UK (lina.stankovic@strath.ac.uk) </h4>
