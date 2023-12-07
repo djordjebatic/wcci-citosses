@@ -5,7 +5,7 @@ layout: page
 
 {% include figure.html img="large_yokahoma_japan_2248134426.jpg" alt="WCCI banner" caption="" width="100%" %}
 
-# Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems @ WCCI 2024, Yokohama, Japan
+# Special Session: Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems <br> [The IEEE World Congress on Computational Intelligence (WCCI) 2024](https://2024.ieeewcci.org/) <br> 30th June - 5th July 2024, Yokohama, Japan <br> Supported by [IEEE CIS Task Force on Computational Intelligence in the Energy Domain](http://www.gecad.isep.ipp.pt/ci4energy/)
 
 ---
 
@@ -34,7 +34,7 @@ accuracy of electrical signal processing methods, by providing adaptive, robust,
 solutions to the challenges posed by the smart grid.
 This special session aims to bridge the gap between computational intelligence techniques 
 and the pressing issues related to electrical power and energy systems. The session is 
-supported by the Computational Intelligence for Energy (CI4Energy) task force.
+supported by the IEEE CIS Task Force on Computational Intelligence in the Energy Domain (CI4Energy).
 
 ## Topics covered
 
@@ -68,8 +68,8 @@ Please follow the submission guideline from the IEEE WCCI 2024 Submission Websit
 
 ## Organizers
 
-- Lina Stankovic
-- Emanuelle Principi
 - Giulia Tanoni
 - Djordje Batic
 - Stavros Sykiotis
+- Emanuelle Principi
+- Lina Stankovic
