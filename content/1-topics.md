@@ -1,6 +1,6 @@
 ---
-title: Scope & Topics
-nav: Scope & Topics
+title: Topics
+nav: Topics
 ---
 
 The topics of interest include but are not limited to computational intelligence techniques 
