@@ -1,7 +1,6 @@
 ---
 title: Important Dates
 nav: Important Dates
-topics: Content; Markdown; Includes
 ---
 
 - January 15th - Paper Submission Deadline

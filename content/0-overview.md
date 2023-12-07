@@ -1,7 +1,6 @@
 ---
 title: Workshop Overview
 nav: Overview
-topics: GitHub; Optional Software
 ---
 
 The intensifying challenges of climate change combined with a surging energy demand 
