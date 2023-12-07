@@ -43,24 +43,24 @@ supported by the IEEE CIS Task Force on Computational Intelligence in the Energy
 
 The topics of interest include but are not limited to computational intelligence techniques 
 applied in:
-* Behind-the-meter solar disaggregation.
-* Residential and Industrial Non-intrusive Load Monitoring.
-* Intelligent Load Forecasting.
-* Energy theft detection.
-* Cyber security for the Smart Grid.
+* Behind-the-meter solar disaggregation
+* Residential and Industrial Non-intrusive Load Monitoring
+* Intelligent Load Forecasting
+* Energy theft detection
+* Cyber security for the Smart Grid
 * Forecasting of renewable energy production and demand
-* Distributed Energy Resources (DER) Visibility and Monitoring.
-* Smart EV charging and EV aggregation techniques.
-* Cloud and edge computing for energy monitoring.
-* High-Resolution Load Profiles Generation.
-* Demand User Profiling with Distributed Solar Generation.
-* Power signal analysis for anomaly detection.
-* Detection and Classification of Power Quality Disturbances.
-* Power Smoothing Methods for Solar Photovoltaic Power Fluctuation mitigation.
+* Distributed Energy Resources (DER) Visibility and Monitoring
+* Smart EV charging and EV aggregation techniques
+* Cloud and edge computing for energy monitoring
+* High-Resolution Load Profiles Generation
+* Demand User Profiling with Distributed Solar Generation
+* Power signal analysis for anomaly detection
+* Detection and Classification of Power Quality Disturbances
+* Power Smoothing Methods for Solar Photovoltaic Power Fluctuation mitigation
 
 ## Submission Guideline
 
-Please follow the submission guideline from the IEEE WCCI 2024 Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Evolutionary Computation and Computational Intelligence for Scheduling and Combinatorial Optimization. All papers accepted and presented at WCCI2024 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the [IEEE WCCI 2024 Submission Website](https://2024.ieeewcci.org/submission). Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems. All papers accepted and presented at WCCI2024 will be included in the conference proceedings published by IEEE.
 
 ## Important Dates
 
