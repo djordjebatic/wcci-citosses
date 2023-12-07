@@ -43,20 +43,20 @@ supported by the IEEE CIS Task Force on Computational Intelligence in the Energy
 
 The topics of interest include but are not limited to computational intelligence techniques 
 applied in:
-* Behind-the-meter solar disaggregation
+* Behind-the-meter Solar Disaggregation
 * Residential and Industrial Non-intrusive Load Monitoring
 * Intelligent Load Forecasting
-* Energy theft detection
-* Cyber security for the Smart Grid
-* Forecasting of renewable energy production and demand
+* Energy Theft Detection
+* Cyber Security for the Smart Grid
+* Forecasting of Renewable Energy Production and Demand
 * Distributed Energy Resources (DER) Visibility and Monitoring
-* Smart EV charging and EV aggregation techniques
-* Cloud and edge computing for energy monitoring
+* Smart EV Charging and EV Aggregation Techniques
+* Cloud and Edge Computing for Energy Monitoring
 * High-Resolution Load Profiles Generation
 * Demand User Profiling with Distributed Solar Generation
-* Power signal analysis for anomaly detection
+* Power Signal Analysis for Anomaly Detection
 * Detection and Classification of Power Quality Disturbances
-* Power Smoothing Methods for Solar Photovoltaic Power Fluctuation mitigation
+* Power Smoothing Methods for Solar Photovoltaic Power Fluctuation Mitigation
 
 ## Submission Guideline
 
