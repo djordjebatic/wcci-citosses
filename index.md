@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-{% include figure.html img="large_yokahoma_japan_2248134426.jpg" alt="WCCI banner" caption="" height="100%" %}
+{% include figure.html img="large_yokahoma_japan_2248134426.jpg" alt="WCCI banner" caption="" width="100%" %}
 
 # Special Session: Computational Intelligence Techniques for Observable Smart Grid and Sustainable Energy Systems
 ## [The IEEE World Congress on Computational Intelligence (WCCI) 2024](https://2024.ieeewcci.org/) 
