@@ -12,7 +12,7 @@ layout: page
 
 ---
 
-## {{page.overview}}
+## Overview
 
 The intensifying challenges of climate change combined with a surging energy demand 
 underscore the crucial need to refine existing smart grid observability methodologies. Smart 
