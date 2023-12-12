@@ -1,5 +1,5 @@
 ---
-title: Workshop Overview
+title: Special Session Overview
 nav: Overview
 ---
 
