@@ -66,7 +66,7 @@ Please follow the submission guideline from the [IEEE WCCI 2024 Submission Websi
 
 ## Important Dates
 
-- January 15th - Paper Submission Deadline
+- ~~January 15th~~ January 29th - Paper Submission Deadline
 - March 15th - Paper Acceptance Notification
 - May 1st - Camera-ready Submission
 - TBA - Special Session
